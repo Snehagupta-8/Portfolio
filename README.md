@@ -32,15 +32,16 @@ portfolio/
 
 
 ## 📡 Deployment
-The portfolio is hosted using **GitHub Pages**.  
+personal-portfolio-web84393.netlify.app
+
 👉 
 
 ---
 
 ## 📬 Contact
 If you want to reach out:  
-- **Email:** your-email@example.com   
-- **LinkedIn:** [Your Name](https://linkedin.com/in/your-linkedin)
+- **Email:** snehasimrangupta843939@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/sneha-gupta-9b528a28b/
 
 ---
 ⭐ Don’t forget to give this repo a star if you like it!
